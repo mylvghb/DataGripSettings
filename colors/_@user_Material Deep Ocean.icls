@@ -4,17 +4,17 @@
     <property name="created">2020-01-06T09:19:02</property>
     <property name="ide">DataGrip</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-01-06T09:23:08</property>
+    <property name="modified">2020-01-17T13:19:16</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />

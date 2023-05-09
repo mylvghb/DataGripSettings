@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="7e57c2" />
+    <option name="selectedTheme" value="NIGHT_OWL" />
+    <option name="userId" value="-354a17e3:16a1bf2458c:-8000" />
+    <option name="version" value="7.11.0" />
+  </component>
+</application>

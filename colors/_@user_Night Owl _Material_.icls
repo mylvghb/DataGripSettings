@@ -4,7 +4,7 @@
     <property name="created">2022-10-06T10:12:27</property>
     <property name="ide">DataGrip</property>
     <property name="ideVersion">2022.2.5.0.0</property>
-    <property name="modified">2022-10-06T10:15:47</property>
+    <property name="modified">2023-05-19T13:28:03</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -13,7 +13,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="9ccc65" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
-    <option name="ActionButton.hoverBackground" value="84d8150" />
+    <option name="ActionButton.hoverBackground" value="4d8150" />
     <option name="ActionButton.iconTextForeground" value="5f7e97" />
     <option name="ActionButton.pressedBackground" value="84d81" />
     <option name="Bookmark.Mnemonic.iconBackground" value="4373c2" />
@@ -2868,8 +2868,6 @@
         <option name="FOREGROUND" value="637777" />
       </value>
     </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="57b6c2" />

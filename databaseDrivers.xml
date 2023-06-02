@@ -7,7 +7,8 @@
       <artifact id="jTDS (SQL Server and Sybase)" name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1.1" />
     </driver>
     <driver id="mysql.8">
-      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.15" />
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
     </driver>
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.6.0" />

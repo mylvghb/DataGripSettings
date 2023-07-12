@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mongo">
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.18" />
+    </driver>
     <driver id="sqlserver.ms">
       <artifact id="SQL Server" name="SQL Server" use="true" version="12.2.0" />
     </driver>

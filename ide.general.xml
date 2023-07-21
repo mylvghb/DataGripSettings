@@ -10,5 +10,11 @@
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="ide.experimental.ui.inter.font" value="false" />
+    <entry key="idea.plugins.compatible.build" value="" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="ide.animate.toolwindows" value="true" />
+    <entry key="editor.focus.mode.color.light" value="697098" />
+    <entry key="editor.focus.mode.color.dark" value="697098" />
   </component>
 </application>

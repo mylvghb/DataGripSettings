@@ -5,13 +5,8 @@
     <option name="confirmOpenNewProject2" value="-1" />
   </component>
   <component name="Registry">
-    <entry key="ide.animate.toolwindows" value="true" />
     <entry key="ide.experimental.ui" value="true" />
-    <entry key="editor.focus.mode.color.light" value="697098" />
     <entry key="ide.tree.ui.experimental" value="false" />
-    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
-    <entry key="editor.focus.mode.color.dark" value="697098" />
-    <entry key="ide.editor.tab.selection.animation" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="ide.experimental.ui.inter.font" value="false" />
